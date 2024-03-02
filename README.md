@@ -1,4 +1,5 @@
 # Hi there! I am Jatin kumar, @Jatinjkt👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=jatinjkt)](https://github.com/ryo-ma/github-profile-trophy)
 
 Welcome to my coding universe! 🌌
 
